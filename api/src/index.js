@@ -9,11 +9,6 @@ const connection = mysql.createConnection({
     user: 'root',
     password: 'password',
     database: 'dbdocker'
-
-    // host: 'localhost', 
-    // user: 'root',
-    // password: 'adminH.2020',
-    // database: 'projects'
 });
 
 connection.connect();
@@ -31,10 +26,6 @@ app.get('/projects', function (req, res){
         res.send(results.map(item => ({title: item.title, description: item.description, year: item.year})));
     });
 });
-
-// app.listen(9900,"0.0.0.0", function() {
-//     console.log('Server is Running at Port 9900');
-// });
 
 app.listen(9988,"0.0.0.0", ()=>{
     console.log('Server is Running at Port 9988');
