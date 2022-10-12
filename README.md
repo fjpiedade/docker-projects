@@ -1,6 +1,6 @@
 # docker-projects
 
-Using docker knowledge create a projects to save title, description e year in mysql database and api in node to feed php website.
+Using docker knowledge create a projects to save title, description e year in mysql database and api in node to feed php website. after that using docker-compose to automatize the docker run.
 
 project tree on vscode
 
