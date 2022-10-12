@@ -4,7 +4,8 @@ Using docker knowledge create a projects to save title, description e year in my
 
 project tree on vscode
 
-<img width="1147" alt="Screen Shot 2022-10-12 at 2 41 19 AM" src="https://user-images.githubusercontent.com/82730685/195229341-cab690ba-88fb-43b6-8c09-8f5715f37e06.png">
+<img width="1291" alt="Screen Shot 2022-10-12 at 11 32 41 PM" src="https://user-images.githubusercontent.com/82730685/195460185-c7e44cca-7134-4ac7-9ad8-972a61388040.png">
+
 
 Docker Images
 
@@ -35,3 +36,8 @@ Docker GUI
 
 <img width="841" alt="Screen Shot 2022-10-12 at 2 46 23 AM" src="https://user-images.githubusercontent.com/82730685/195229926-690ea641-6918-4d9f-814c-913b1bc6f1bb.png">
 
+Docker-Compose
+
+<img width="1253" alt="Screen Shot 2022-10-12 at 11 34 28 PM" src="https://user-images.githubusercontent.com/82730685/195460339-d1f3c915-27c7-494a-9339-9bf64bb4a94a.png">
+
+<img width="1033" alt="Screen Shot 2022-10-12 at 11 28 11 PM" src="https://user-images.githubusercontent.com/82730685/195460241-59d22f0e-5f25-4b5b-8031-34b42abdb5e6.png">
